@@ -1,7 +1,8 @@
 
 # AiME: Home MSP Infrastructure Stack
 
-Welcome to the documentation hub for AiME — a self-hosted, open-source powered, home-based MSP infrastructure built for flexibility, control, and AI integration.
+AiME is a self-hosted platform that connects, manages, and automates your home tech — all from one place.
+
 
 ---
 
